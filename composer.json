@@ -12,7 +12,7 @@
     "classmap": [],
     "files": [],
     "psr-4": {
-        "Dkweb\\Flightstats": "src/"
+        "Dkweb\\Flightstats\\": "src/"
     }
 },
     "require": {
