@@ -2,6 +2,7 @@
     "name": "dkweb/flightstats",
     "description": "Getting info From FlightStats",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "dkweb",
