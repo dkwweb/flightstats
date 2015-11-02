@@ -18,5 +18,7 @@
 },
     "require": {
         "guzzlehttp/guzzle": "~6.0"
-    }
+    },
+	"minimum-stability": "dev"
+}
 }
